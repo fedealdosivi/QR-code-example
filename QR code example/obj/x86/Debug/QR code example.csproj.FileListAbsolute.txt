@@ -1,0 +1,21 @@
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\QR code example.exe
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\QR code example.pdb
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR code example.csprojResolveAssemblyReference.cache
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR_code_example.Form1.resources
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR_code_example.Properties.Resources.resources
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR code example.csproj.GenerateResource.Cache
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR code example.exe
+C:\Users\fede\documents\visual studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR code example.pdb
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\obj\x86\Debug\QR_code_example.Formcamara.resources
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.Video.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\zxing.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.xml
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.Video.xml
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QR code example\bin\Debug\zxing.pdb

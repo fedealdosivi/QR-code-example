@@ -1,0 +1,6 @@
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\bin\Debug\QrClass.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\bin\Debug\QrClass.pdb
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\obj\Debug\QrClass.csprojResolveAssemblyReference.cache
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\obj\Debug\QrClass.dll
+C:\Users\fede\Documents\Visual Studio 2010\Projects\QR code example\QrClass\obj\Debug\QrClass.pdb
